@@ -1,24 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Text;
-using System.Windows.Forms;
-using Emgu.CV;
+﻿using Emgu.CV;
 using Emgu.CV.Structure;
-using Emgu.CV.ML;
-using Emgu.CV.ML.Structure;
-using Emgu.CV.UI;
-using Emgu.Util;
-using System.Diagnostics;
-using Emgu.CV.CvEnum;
-using System.IO;
-using System.Linq;
-using tesseract;
-using System.Collections;
 using LaptrinhVBLibs;
+using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.IO;
 using System.Reflection;
+using System.Windows.Forms;
+using tesseract;
 
 namespace LPR_Laptrinhvb
 {
